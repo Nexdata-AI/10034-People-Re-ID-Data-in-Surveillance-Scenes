@@ -3,7 +3,7 @@
 ## Description
 10,034 People - Re-ID Data in Surveillance Scenes. The data includes supermarket (inside supermarket and at the gate of the supermarket) scenes. The data includes males and females and the age distribution is from children to the elderly. In this dataset, the rectangular bounding boxes and 15 attributes of human body were annotated.The data can be used for re-id and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1038?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
